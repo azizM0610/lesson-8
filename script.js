@@ -14,5 +14,7 @@ if (oper === "+") {
     } else {
         result = "Ошибка!";
     }
+} else {
+    result = "Ошибка!";
 }
 alert("Ответ!" + result);
